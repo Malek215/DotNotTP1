@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1xuKyZxDBvMlriASNUYV2xiGl2DBSqg0I8KBPSkGyJnnRKVg/6R27K32Lqr3TEx/rWoUm3wk4HtJF1btKkUeg==",
+  "success": true,
+  "projectFilePath": "D:\\GL3\\dnet\\DotNetTP1\\DotNetTP1\\DotNetTP1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mbens\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

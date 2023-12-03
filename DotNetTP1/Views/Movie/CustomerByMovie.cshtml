@@ -1,0 +1,19 @@
+﻿﻿
+@model DotNetTP1.Models.CustomerMovieViewModel
+
+@{
+    ViewData["Title"] = "Customers By Movie";
+}
+
+<h2>Customers for Movie: @Model.movie.Name</h2>
+
+
+
+<ul>
+    @foreach (var customer in Model.customers)
+    {
+        <li>@customer.Name</li>
+    }
+</ul>
+
+<a asp-controller="Movie" asp-action="Index">Back to Movies</a>
